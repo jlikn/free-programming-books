@@ -47,3 +47,5 @@ end_of_line = crlf
 ; YML config files - match it own default syntax
 [*.{yaml,yml}]
 indent_size = 2
+
+
